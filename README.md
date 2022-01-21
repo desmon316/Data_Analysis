@@ -18,9 +18,11 @@ R Programming code can be found [here](https://github.com/desmon316/Data_Analysi
 
 ### Data Visualization
  
+Detailed Analysis can be found [here](https://github.com/desmon316/Data_Analysis/blob/main/AccidentsInLondon.html)
 Here is my [Tableau dashboard](https://public.tableau.com/views/TFL_Accident_Data_Analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### Findings
+
+### Summary
 
 Even though City of London is the central part of London, it has the lowest accidents reported amongst all the boroughs. This can be attributed to the Congestion Zone charges applicable for vehicles. The boroughs around City of London have the highest accidents reported. The boroughs farther away from City of London have lower accidents with exception of Enfield and Barnet. The reason for borough of Barnet to have higher cases than its surroundings may be attributed to M1. This however needs further research. The A10 in Enfield is a high traffic road and this traffic density may be the reason for higher accidents( needs further research).
 
