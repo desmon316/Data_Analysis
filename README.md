@@ -18,9 +18,7 @@ R Programming code can be found [here](https://github.com/desmon316/Data_Analysi
 
 ### Data Visualization
  
-Detailed analysis can be found [here](https://github.com/desmon316/Data_Analysis/blob/main/AccidentsInLondon.html).
-
-Here is my [Tableau dashboard](https://public.tableau.com/views/TFL_Accident_Data_Analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Detailed analysis can be found in my [Tableau dashboard](https://public.tableau.com/views/TFL_Accident_Data_Analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ### Summary
