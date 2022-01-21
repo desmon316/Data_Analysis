@@ -8,17 +8,17 @@ The idea behind the project was to analyze the accidents reported in the year 20
 
 ### Data Sources:
 
-Data was collected from the TFL's open data source https://roads.data.tfl.gov.uk/ . 
+Data was collected from the TFL's open data source [TFL Data](https://roads.data.tfl.gov.uk/) . 
 The Data files used were 2019-gla-data-extract-vehicle.csv and 2019-gla-data-extract-attendant.csv. 
 
 ### Data Analysis and Cleanup
 
 The data was cleaned using R programming.
-R Programming code can be found here  https://github.com/desmon316/Data_Analysis/blob/main/TFL_2019_Accident_Report.R .
+R Programming code can be found [here](https://github.com/desmon316/Data_Analysis/blob/main/TFL_2019_Accident_Report.R) .
 
 ### Data Visualization
  
-Here is my dashboard https://public.tableau.com/views/TFL_Accident_Data_Analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+Here is my [Tableau dashboard](https://public.tableau.com/views/TFL_Accident_Data_Analysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Findings
 
